@@ -1,0 +1,9 @@
+en:
+  key_page:
+    form:
+      button: Proceed
+      rework:
+        message: 'Some changes are required for this application ***This message not finalized!!! '
+      subtitle: View or edit your grant submission form
+      title: Application Form
+    submit: :ok

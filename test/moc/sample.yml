@@ -1,0 +1,11 @@
+en:
+  key_page:
+    submit: :ok
+    form:
+      # This is simple comment for button
+      button: Proceed
+      rework:
+        message: 'Some changes are required for this application ***This message not
+          finalized!!! '
+      subtitle: View or edit your grant submission form
+      title: Application Form
