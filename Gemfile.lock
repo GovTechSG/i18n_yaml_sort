@@ -1,0 +1,36 @@
+PATH
+  remote: .
+  specs:
+    i18n_yaml_sort (0.1.1)
+      activesupport (>= 4.2.0)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    activesupport (6.1.1)
+      concurrent-ruby (~> 1.0, >= 1.0.2)
+      i18n (>= 1.6, < 2)
+      minitest (>= 5.1)
+      tzinfo (~> 2.0)
+      zeitwerk (~> 2.3)
+    concurrent-ruby (1.1.8)
+    i18n (1.8.8)
+      concurrent-ruby (~> 1.0)
+    minitest (5.14.3)
+    rake (10.5.0)
+    tzinfo (2.0.4)
+      concurrent-ruby (~> 1.0)
+    zeitwerk (2.4.2)
+
+PLATFORMS
+  x86_64-darwin-20
+  x86_64-linux
+
+DEPENDENCIES
+  bundler (~> 2.2.7)
+  i18n_yaml_sort!
+  minitest (~> 5.0)
+  rake (~> 10.0)
+
+BUNDLED WITH
+   2.2.8
