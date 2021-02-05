@@ -1,9 +1,3 @@
-#!/usr/bin/ruby
-# @Author: Karuppasamy M
-# @Date:   2016-03-10 08:21:06
-# @Last Modified by:   Karuppasamy M
-# @Last Modified time: 2016-03-14 12:19:40
-
 require 'i18n_yaml_sort/version'
 require 'i18n_yaml_sort/hash'
 require 'i18n_yaml_sort/railtie'

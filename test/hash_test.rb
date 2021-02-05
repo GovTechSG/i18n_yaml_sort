@@ -1,9 +1,3 @@
-#!/usr/bin/ruby
-# @Author: Karuppasamy M
-# @Date:   2016-03-09 21:02:31
-# @Last Modified by:   Lim Yao Jie
-# @Last Modified time: 2021-02-02 14:37
-
 require 'test_helper'
 
 class HashTest < Minitest::Test
