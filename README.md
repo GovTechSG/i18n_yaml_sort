@@ -24,7 +24,7 @@ Or install it yourself as:
 
 **Default:** Run `rake i18n:sort` to sort all your locales.
 
-Pass the filename as a param to the task `rake i18n:sort path/to/yaml/file` to sort the given file alone.
+Pass the filename as a param to the task `rake i18n:sort[path/to/yaml/file]` to sort the given file alone.
 
 ## Contributing
 
