@@ -1,10 +1,5 @@
-#!/usr/bin/ruby
-# @Author: Karuppasamy M
-# @Date:   2016-03-11 08:21:06
-# @Last Modified by:   Karuppasamy M
-# @Last Modified time: 2016-03-11 08:21:06
-
 require 'i18n_yaml_sort'
+
 namespace :i18n do
   desc 'Sort all i18n yaml files in alphabetic order.'
   task :sort, [:path_to_yaml_file] => :environment do |_, args|
