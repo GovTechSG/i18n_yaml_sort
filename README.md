@@ -1,6 +1,6 @@
 # I18nYamlSort
 
-[![Build Status](https://travis-ci.org/idagds/i18n_yaml_sort.svg?branch=master)](https://travis-ci.org/idagds/i18n_yaml_sort)
+[![Build Status](https://travis-ci.org/GovTechSG/i18n_yaml_sort.svg?branch=master)](https://travis-ci.org/GovTechSG/i18n_yaml_sort)
 
 Sort your locales (yml file) in alphabetical order for better readability.
 
