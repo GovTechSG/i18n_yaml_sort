@@ -9,7 +9,7 @@ Sort your locales (yml file) in alphabetical order for better readability.
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'i18n_yaml_sort', git: https://github.com/idagds/i18n_yaml_sort.git'
+gem 'i18n_yaml_sort', git: 'https://github.com/GovTechSG/i18n_yaml_sort.git'
 ```
 
 And then execute:
@@ -28,7 +28,7 @@ Pass the filename as a param to the task `rake i18n:sort[path/to/yaml/file]` to 
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/idagds/i18n_yaml_sort. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
+Bug reports and pull requests are welcome on GitHub at https://github.com/GovTechSG/i18n_yaml_sort. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
 
 
 ## License
